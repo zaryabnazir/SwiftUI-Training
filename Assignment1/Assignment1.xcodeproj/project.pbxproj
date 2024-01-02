@@ -17,6 +17,8 @@
 		2784873E2B3073110060C024 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784873A2B3073110060C024 /* LoginView.swift */; };
 		2784873F2B3073110060C024 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784873B2B3073110060C024 /* CheckBox.swift */; };
 		278487402B3073110060C024 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784873C2B3073110060C024 /* SignUpView.swift */; };
+		2784874D2B3978CA0060C024 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2784874C2B3978CA0060C024 /* ProfileView.swift */; };
+		278487532B4445910060C024 /* TestZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278487522B4445910060C024 /* TestZstack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		2784873A2B3073110060C024 /* LoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		2784873B2B3073110060C024 /* CheckBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		2784873C2B3073110060C024 /* SignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		2784874C2B3978CA0060C024 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		278487522B4445910060C024 /* TestZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestZstack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +152,8 @@
 				2784873A2B3073110060C024 /* LoginView.swift */,
 				2784873B2B3073110060C024 /* CheckBox.swift */,
 				2784873C2B3073110060C024 /* SignUpView.swift */,
+				2784874C2B3978CA0060C024 /* ProfileView.swift */,
+				278487522B4445910060C024 /* TestZstack.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -282,10 +288,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				278487532B4445910060C024 /* TestZstack.swift in Sources */,
 				2784873D2B3073110060C024 /* ColorExtension.swift in Sources */,
 				2784873E2B3073110060C024 /* LoginView.swift in Sources */,
 				2784870E2B3072DE0060C024 /* Assignment1App.swift in Sources */,
 				278487402B3073110060C024 /* SignUpView.swift in Sources */,
+				2784874D2B3978CA0060C024 /* ProfileView.swift in Sources */,
 				2784873F2B3073110060C024 /* CheckBox.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
